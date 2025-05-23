@@ -4,5 +4,14 @@
   "artist": "Hasegawa Sanji",
   "author": "Nanaumi Sou",
   "cover": "https://mangadex.org/covers/2b620bfa-732f-4f1f-b998-72359ad029c1/03410c61-3373-4666-9060-9b701d7c2fcb.jpg",
-  "chapters": {}
+  "chapters": {
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1747972971",
+      "groups": {
+        "BingScans": "https://imgchest.com/p/n87wdaqwx4x"
+      }
+    }
+  }
 }
