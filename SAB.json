@@ -6,7 +6,7 @@
   "cover": "https://mangadex.org/covers/2b620bfa-732f-4f1f-b998-72359ad029c1/03410c61-3373-4666-9060-9b701d7c2fcb.jpg",
   "chapters": {
     "7.1": {
-      "title": "7.1",
+      "title": "Quarrel - 1",
       "volume": "1",
       "last_updated": "1747974300",
       "groups": {
@@ -27,7 +27,7 @@
       }
     },
     "7.2": {
-      "title": "7.2",
+      "title": "Quarrel - 2",
       "volume": "1",
       "last_updated": "1747974337",
       "groups": {
@@ -51,6 +51,28 @@
           "https://cdn.imgchest.com/files/4apc5gbemw4.png"
         ]
       }
-    }
+    },
+    "8.1": {
+      "title": "A premonition after a change - 1",
+      "volume": "1",
+      "last_updated": "1747974300",
+      "groups": {
+        "BingScans": [
+          "https://cdn.imgchest.com/files/49zc2wzrany.png",
+          "https://cdn.imgchest.com/files/4nec8k5xe84.png",
+          "https://cdn.imgchest.com/files/7bwckxbl9a7.png",
+          "https://cdn.imgchest.com/files/7pjcq56vaa7.png",
+          "https://cdn.imgchest.com/files/7ogcb5velpy.png",
+          "https://cdn.imgchest.com/files/y2pckz6jp37.png",
+          "https://cdn.imgchest.com/files/7lxcpn6k9w7.png",
+          "https://cdn.imgchest.com/files/4jdcvnbogm4.png",
+          "https://cdn.imgchest.com/files/yq9c3g6xzg4.png",
+          "https://cdn.imgchest.com/files/yrgcng6m8o4.png",
+          "https://cdn.imgchest.com/files/7lxcpn6k967.png",
+          "https://cdn.imgchest.com/files/4jdcvnbogj4.png",
+          "https://cdn.imgchest.com/files/yd5cejbnkg4.png"
+        ]
+      }
+    },
   }
 }
