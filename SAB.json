@@ -74,8 +74,8 @@
         ]
       }
     },
-    "8.2": { 
-      "title": "A premonition after a change 2", 
+    "8.2": {
+      "title": "A premonition after a change 2",
       "volume": "1",
       "last_updated": "1667974347",
       "groups": {
@@ -96,6 +96,14 @@
           "https://cdn.imgchest.com/files/7kzca5nz2w7.png",
           "https://cdn.imgchest.com/files/y2pckz6jle7.png"
         ]
+      }
+    },
+    "9.1": {
+      "title": "9.1",
+      "volume": "1",
+      "last_updated": "1748184005",
+      "groups": {
+        "BingScans": "/proxy/api/imgur/chapter/lgmiWIq"
       }
     }
   }
