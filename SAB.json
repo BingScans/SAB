@@ -101,9 +101,17 @@
     "9.1": {
       "title": "Let's just stay like this for now... 1",
       "volume": "1",
-      "last_updated": "1748184005",
+      "last_updated": "1667974347",
       "groups": {
         "BingScans": "/proxy/api/imgur/chapter/lgmiWIq"
+      }
+    },
+    "9.2": {
+      "title": "Let's just stay like this for now... 2",
+      "volume": "1",
+      "last_updated": "1667974347",
+      "groups": {
+        "BingScans": "/proxy/api/imgur/chapter/rn2ITBe"
       }
     }
   }
